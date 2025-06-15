@@ -6,7 +6,7 @@ Este proyecto implementa una función en Python 3.10 para **Google Cloud Functio
 
 ## 🚀 Objetivo
 
-Crear y configurar un entorno segruo y escalable en GCP.
+Crear y configurar un entorno seguro y escalable en GCP.
 Detectar automáticamente archivos subidos y registrar sus metadatos en el sistema de registros de GCP.
 
 ---
