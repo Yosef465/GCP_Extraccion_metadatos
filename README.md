@@ -102,7 +102,7 @@ Se asignaron permisos mínimos necesarios a la cuenta de servicio que ejecuta la
 - Registra la información en Cloud Logging para su trazabilidad.
 - Incluye manejo robusto de errores y registros detallados con `logging.error()` y `exc_info=True`.
 
-> 🔧 El código fuente completo se encuentra en `main.py`, al igual que los requerimentos en `requiremenst`
+> 🔧 El código fuente completo se encuentra en `main.py`, al igual que los requerimentos en `requirements.txt`
 
 ---
 
@@ -116,7 +116,7 @@ Se asignaron permisos mínimos necesarios a la cuenta de servicio que ejecuta la
 
 ## 📘 Registro exitoso en Cloud Logging
 
-### Verificacion de los registros  en Logs Explorer
+### Verificacion exitosa de los registros en Logs Explorer
 
 ![Registros en Logging](img/Registros.png)
 
