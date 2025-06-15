@@ -103,15 +103,21 @@ Se asignaron permisos mínimos necesarios a la cuenta de servicio que ejecuta la
 - Registra la información en Cloud Logging para su trazabilidad.
 - Incluye manejo robusto de errores y registros detallados con `logging.error()` y `exc_info=True`.
 
-> 🔧 El código fuente completo se encuentra en `main.py`.
+> 🔧 El código fuente completo se encuentra en `main.py`, al igual que los requerimentos en `requiremenst`
 
 ---
 
-## 📦 Requisitos (`requirements.txt`)
+## ⬆️ Subida de archivo al bucket
 
-Se requiere instalar `functions-framework` para desplegar correctamente la función:
+### Una vez desplegada la función y configurado el bucket, sube un archivo 
 
-```txt
-functions-framework==3.5.0
+![Subida de archivo](img/carga_archivo_bucket.png)
 
+---
+
+## 📘 Registro exitoso en Cloud Logging
+
+### Verificacion de los registros  en Logs Explorer
+
+![Registros en Logging](img/Registros.png)
 
