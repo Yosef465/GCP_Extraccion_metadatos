@@ -48,7 +48,7 @@ Estas APIs fueron activadas en el proyecto de GCP para garantizar el correcto fu
 
 - **Cloud Logging**  
   Permite registrar eventos personalizados y errores.  
-  ![Cloud Logging API](img/API_Loggin.png)
+  ![Cloud Logging API](img/APi_Loggin.png)
 
 - **Cloud Storage**  
   Servicio para almacenar objetos y activar funciones mediante eventos.  
