@@ -4,9 +4,6 @@ import functions_framework
 ## Módulo para registrar eventos en Cloud Logging
 import logging
 
-## (Opcional) Módulo para manejar datos JSON, aunque no se utiliza directamente aquí
-import json
-
 ## Configura el nivel de detalle de los registros
 ## 'INFO' permite ver tanto los mensajes informativos como errores
 logging.basicConfig(level=logging.INFO)
