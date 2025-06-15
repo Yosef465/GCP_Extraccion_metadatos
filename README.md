@@ -38,7 +38,6 @@ Detectar automáticamente archivos subidos y registrar sus metadatos en el siste
 4. **Cloud Logging almacena el evento**  
    Se registran los metadatos para monitoreo, trazabilidad y diagnóstico del sistema.
 
-![Diagrama de flujo](img/flujo-funcion.png)
 
 ---
 
