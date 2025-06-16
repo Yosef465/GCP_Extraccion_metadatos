@@ -21,6 +21,12 @@ Detectar automáticamente archivos subidos y registrar sus metadatos en el siste
 
 ---
 
+## 📁 Estructura del proyecto
+
+- `README.md` → Documentación del proyecto  
+- `main.py` → Función Cloud Function que procesa los eventos  
+- `requirements.txt` → Dependencias del proyecto  
+- `img/` → Carpeta con diagramas y evidencias del funcionamiento 
 
 ---
 
